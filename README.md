@@ -36,10 +36,10 @@ I have a strong desire for continuous learning and improvement, and I actively s
 
 ##  Projects I've worked on
 
-- ✅ **Quadratic Equation Solver (C# WinForms)** – a desktop app that calculates roots based on discriminants.
-- ✅ **Text Frequency Analyzer** – application that counts word frequency in user input.
-- ✅ **Pizza Order Calculator** – selects pizza size and discounts and calculates final price.
-- ✅ **Homemade Products Order System** – connected to Access DB with full CRUD (Create, Read, Update, Delete) operations.
+- ✅ **Quadratic Equation Solver** [https://github.com/StefanieF2004/QuadraticEquationSolver.git] (C# WinForms) – a desktop app that calculates roots based on discriminants.
+- ✅ **Text Frequency Analyzer** [https://github.com/StefanieF2004/WordFrequencyAnalyzer.git] – application that counts word frequency in user input.
+- ✅ **Pizza Order Calculator** [https://github.com/StefanieF2004/PriceCalculatorWinForms.git] – selects pizza size and discounts and calculates final price.
+- ✅ **Homemade Products Order System** [https://github.com/StefanieF2004/Homemade-Products-Manager.git]– connected to Access DB with full CRUD (Create, Read, Update, Delete) operations.
 
 Each of these projects demonstrates my practical ability to develop full-functioning apps with database integration and solid backend logic.
 
