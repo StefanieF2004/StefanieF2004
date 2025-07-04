@@ -1,58 +1,37 @@
-# About Me
+# 👋 Hi there, I'm Stefanija Fileva!
 
-I'm a passionate and dedicated computer engineering student currently in my second year (soon entering third year) at the Faculty of Computer Science and Engineering. My academic focus is on **Computer Engineering and Information Technologies**, with strong motivation to grow both personally and professionally in the field of software development.
-
-## What drives me
-I have a strong desire for continuous learning and improvement, and I actively seek opportunities to apply my knowledge in practical, real-world projects. I enjoy solving problems, learning new technologies, and working on both frontend and backend solutions.
+🎓 I'm currently a 2nd-year (soon 3rd-year) student at the University of Goce Delchev – Faculty of Informatics, studying **Computer Engineering and Technologies**.
 
 ---
 
-##  Skills & Technologies
+##  About Me
 
-### Programming Languages:
-- ✅ C# (Windows Forms – Visual Studio)
-- ✅ C++
-- ✅ SQL (MS Access, SQL Server)
-- ✅ HTML & basic CSS
-- ✅ Basic Java knowledge
+I am passionate about **backend development**, with experience in:
+- ✅ C# and Windows Forms (Visual Studio)
+- ✅ C++ for logic and algorithms
+- ✅ SQL and Access databases (ADO.NET, OleDb)
+- ✅ Git and GitHub for version control
 
-###  Backend / Logic:
-- Creating desktop applications using **C# WinForms**
-- Connecting applications to **Access** databases using **OleDb**
-- Working with **SQL queries** (INSERT, UPDATE, DELETE, SELECT, JOIN, etc.)
-- File operations and object-oriented design in **C++**
-
-### Frontend (Basic knowledge):
-- HTML pages
-- GUI design in Windows Forms (labels, buttons, textbox input validation, etc.)
-
-###  Tools:
-- Visual Studio
-- MS Access
-- Git & GitHub
-- Windows OS development environment
+I am always eager to learn, work in a team, and improve my coding skills through real-world projects.
 
 ---
 
-##  Projects I've worked on
+##  Tech Stack
 
-- ✅ **Quadratic Equation Solver** [https://github.com/StefanieF2004/QuadraticEquationSolver.git] (C# WinForms) – a desktop app that calculates roots based on discriminants.
-- ✅ **Text Frequency Analyzer** [https://github.com/StefanieF2004/WordFrequencyAnalyzer.git] – application that counts word frequency in user input.
-- ✅ **Pizza Order Calculator** [https://github.com/StefanieF2004/PriceCalculatorWinForms.git] – selects pizza size and discounts and calculates final price.
-- ✅ **Homemade Products Order System** [https://github.com/StefanieF2004/Homemade-Products-Manager.git ]– connected to Access DB with full CRUD (Create, Read, Update, Delete) operations.
-
-Each of these projects demonstrates my practical ability to develop full-functioning apps with database integration and solid backend logic.
+- **Languages**: C#, C++, SQL, HTML (basic)
+- **IDE/Tools**: Visual Studio, Access, GitHub Desktop
+- **Technologies**: Windows Forms, OleDb, ADO.NET
 
 ---
 
-##  Currently learning:
-- Advanced SQL
-- ASP.NET Core (beginner)
-- Web development fundamentals
+##  My Projects
+
+🔹 [Quadratic Equation Solver](https://github.com/StefanieF2004/QuadraticEquationSolver)  
+🔹 [Text Frequency Analyzer](https://github.com/StefanieF2004/TextFrequencyAnalyzer)  
+🔹 [Home Products Order Management System](https://github.com/StefanieF2004/DomasniProizvodi)
 
 ---
-
-##  Goals
+## 🚀 Goals
 I’m seeking internship or junior developer opportunities where I can contribute, learn, and grow as part of a professional team. I’m especially interested in:
 - Full Stack Development
 - Backend Development
@@ -60,6 +39,13 @@ I’m seeking internship or junior developer opportunities where I can contribut
 
 ---
 
-##  Contact
-Feel free to connect or reach out if you're interested in collaboration, feedback, or job opportunities!
+##  Let's Connect
+
+📍 From: North Macedonia  
+📧 Email: stefifileva07@gmail.com  
+🔗 GitHub: [StefanieF2004](https://github.com/StefanieF2004)
+
+---
+
+> 🧩 I am open to internships, remote junior roles, and collaborative student projects!
 
