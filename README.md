@@ -1,13 +1,13 @@
-# 👩‍💻 About Me
+# About Me
 
 I'm a passionate and dedicated computer engineering student currently in my second year (soon entering third year) at the Faculty of Computer Science and Engineering. My academic focus is on **Computer Engineering and Information Technologies**, with strong motivation to grow both personally and professionally in the field of software development.
 
-## 🎯 What drives me
+## What drives me
 I have a strong desire for continuous learning and improvement, and I actively seek opportunities to apply my knowledge in practical, real-world projects. I enjoy solving problems, learning new technologies, and working on both frontend and backend solutions.
 
 ---
 
-## 🧠 Skills & Technologies
+##  Skills & Technologies
 
 ### Programming Languages:
 - ✅ C# (Windows Forms – Visual Studio)
@@ -26,7 +26,7 @@ I have a strong desire for continuous learning and improvement, and I actively s
 - HTML pages
 - GUI design in Windows Forms (labels, buttons, textbox input validation, etc.)
 
-### 🛠️ Tools:
+###  Tools:
 - Visual Studio
 - MS Access
 - Git & GitHub
@@ -34,7 +34,7 @@ I have a strong desire for continuous learning and improvement, and I actively s
 
 ---
 
-## 🔧 Projects I've worked on
+##  Projects I've worked on
 
 - ✅ **Quadratic Equation Solver (C# WinForms)** – a desktop app that calculates roots based on discriminants.
 - ✅ **Text Frequency Analyzer** – application that counts word frequency in user input.
@@ -45,14 +45,14 @@ Each of these projects demonstrates my practical ability to develop full-functio
 
 ---
 
-## 📚 Currently learning:
+##  Currently learning:
 - Advanced SQL
 - ASP.NET Core (beginner)
 - Web development fundamentals
 
 ---
 
-## 🚀 Goals
+##  Goals
 I’m seeking internship or junior developer opportunities where I can contribute, learn, and grow as part of a professional team. I’m especially interested in:
 - Full Stack Development
 - Backend Development
@@ -60,6 +60,6 @@ I’m seeking internship or junior developer opportunities where I can contribut
 
 ---
 
-## 📫 Contact
+##  Contact
 Feel free to connect or reach out if you're interested in collaboration, feedback, or job opportunities!
 
