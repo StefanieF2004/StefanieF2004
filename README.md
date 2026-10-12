@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Stefanija Fileva!
 
-🎓 I'm currently a 3rd-year student at the University of Goce Delchev – Faculty of Informatics, studying **Computer Engineering and Technologies**.
+🎓 I'm currently a 4th-year student at the University of Goce Delchev – Faculty of Informatics, studying **Computer Engineering and Technologies**.
 
 ---
 
